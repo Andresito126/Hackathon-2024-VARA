@@ -51,6 +51,7 @@
     "sails-js": "0.1.9",
     "simplebar": "6.2.7",
     "simplebar-react": "3.2.6",
+    "yarn": "^1.22.22",
     "zustand": "4.5.5"
   },
   "devDependencies": {
